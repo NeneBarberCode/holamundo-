@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\New User\\source\\repos\\holamundo\\holamundo\\holamundo.csproj": {}
+    "C:\\Users\\New User\\Downloads\\rep\\holamundo-\\holamundo\\holamundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\New User\\source\\repos\\holamundo\\holamundo\\holamundo.csproj": {
+    "C:\\Users\\New User\\Downloads\\rep\\holamundo-\\holamundo\\holamundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\New User\\source\\repos\\holamundo\\holamundo\\holamundo.csproj",
+        "projectUniqueName": "C:\\Users\\New User\\Downloads\\rep\\holamundo-\\holamundo\\holamundo.csproj",
         "projectName": "holamundo",
-        "projectPath": "C:\\Users\\New User\\source\\repos\\holamundo\\holamundo\\holamundo.csproj",
+        "projectPath": "C:\\Users\\New User\\Downloads\\rep\\holamundo-\\holamundo\\holamundo.csproj",
         "packagesPath": "C:\\Users\\New User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\New User\\source\\repos\\holamundo\\holamundo\\obj\\",
+        "outputPath": "C:\\Users\\New User\\Downloads\\rep\\holamundo-\\holamundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\New User\\AppData\\Roaming\\NuGet\\NuGet.Config",
